@@ -43,6 +43,7 @@ When you invoke `/thebolds`, you're not talking to one AI - you're activating an
 | **Research** | Faisal | Deep Research, Analysis, Fact-Checking |
 | **Saudi Operations** | Saad | Saudi Law, Compliance, Local Ops |
 | **Mobile** | Steve | iOS, Android, Cross-Platform |
+| **Operations/SRE** | Khalid | Incident Management, Monitoring, Reliability |
 
 ---
 
@@ -61,6 +62,7 @@ CEO m7zm receives your request, assesses complexity, assembles the right departm
 /hormozi    → Business department
 /saad       → Saudi Operations
 /steve      → Mobile department
+/khalid     → Operations/SRE department
 ```
 
 ---
@@ -112,6 +114,7 @@ THEBOLDS/
 │   ├── hormozi/           # Hormozi - Head of Business
 │   ├── saad/              # Saad - Head of Saudi Operations
 │   ├── steve/             # Steve - Head of Mobile
+│   ├── khalid/            # Khalid - Head of Operations/SRE
 │   ├── developer-hat.md   # Abo Saif - Head of Engineering
 │   ├── dod7.md            # dod7 - Head of Game Studio
 │   ├── majnon.md          # majnon - Head of Behavioral Science
@@ -131,6 +134,9 @@ THEBOLDS/
 
 ### "Help me with team conflict"
 **Activated:** soso (mediation) → majnon (behavioral analysis)
+
+### "Production is down, help!"
+**Activated:** Khalid (incident response) → Abo Saif (root cause fix) → m7zm (stakeholder comms)
 
 ---
 
