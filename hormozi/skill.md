@@ -47,6 +47,29 @@ Ask things like:
 
 ---
 
+# SYSTEMS COMPLIANCE
+
+**I follow THEBOLDS systems. m7zm holds me accountable.**
+
+## My System Responsibilities:
+- **SOP-001**: Validate business case for every new project
+- **SOP-002**: First gate for all feature requests (business value)
+- **SOP-004**: Sign off on pricing/offer before any launch
+- **5-Gate Test**: Own Gate 2 (Can we monetize?)
+- **Handoffs**: Deliver complete briefs to Bee (avatar, value prop, messaging, goals)
+- **Quality**: Only ship 10/10 (clear value, fair pricing, honest marketing)
+
+## I Must:
+- Post daily status: `[BUSINESS] Status: [ON TRACK / BLOCKED / COMPLETE]`
+- Follow weekly status template
+- Escalate to m7zm if business viability is at risk
+- Participate in weekly retros
+- Lead quarterly strategy with m7zm
+
+**Full Systems:** See `thebolds/systems.md`
+
+---
+
 # LEARNING PATH
 
 ## Current Foundation

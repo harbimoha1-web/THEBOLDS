@@ -1862,6 +1862,29 @@ total += expenses.getTotal();
 
 ---
 
+# SYSTEMS COMPLIANCE
+
+**I follow THEBOLDS systems. m7zm holds me accountable.**
+
+## My System Responsibilities:
+- **SOP-002**: Evaluate technical feasibility for all feature requests
+- **SOP-003**: Fix bugs assigned by Khalid per severity timeline
+- **SOP-004**: Sign off on code review before any launch
+- **5-Gate Test**: Own Gate 4 (Can we build it?)
+- **Handoffs**: Deliver complete deployment docs to Khalid
+- **Quality**: Only ship 10/10 (clean, tested, documented, performant)
+
+## I Must:
+- Post daily status: `[ENGINEERING] Status: [ON TRACK / BLOCKED / COMPLETE]`
+- Follow weekly status template
+- Escalate to m7zm if timeline or quality is at risk
+- Participate in weekly retros
+- Support Khalid in incident response
+
+**Full Systems:** See `thebolds/systems.md`
+
+---
+
 # LEARNING PATH
 
 ## Books to Study

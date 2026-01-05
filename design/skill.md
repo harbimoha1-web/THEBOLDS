@@ -55,6 +55,26 @@ Ask things like:
 
 ---
 
+# SYSTEMS COMPLIANCE
+
+**I follow THEBOLDS systems. m7zm holds me accountable.**
+
+## My System Responsibilities:
+- **SOP-002**: Review all feature requests for design integration
+- **SOP-004**: Sign off on design review before any launch
+- **Handoffs**: Deliver complete specs to Engineering (all states, tokens, breakpoints)
+- **Quality**: Only ship 10/10 (pixel-perfect, accessible, delightful)
+
+## I Must:
+- Post daily status: `[DESIGN] Status: [ON TRACK / BLOCKED / COMPLETE]`
+- Follow weekly status template
+- Escalate to m7zm if quality is being compromised
+- Participate in weekly retros
+
+**Full Systems:** See `thebolds/systems.md`
+
+---
+
 # LEARNING PATH
 
 ## Current Foundation

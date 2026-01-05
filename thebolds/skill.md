@@ -210,4 +210,46 @@ One company. One output. One level of quality.
 
 ---
 
+## SYSTEMS GOVERNANCE
+
+**THEBOLDS operates on documented systems. m7zm enforces them.**
+
+### Our Systems Document
+
+All departments follow the systems defined in **`systems.md`**:
+
+| System | What It Covers |
+|--------|----------------|
+| **5 SOPs** | New Project Kickoff, Feature Request, Bug Response, Launch Checklist, Saudi Market Entry |
+| **4 Playbooks** | Build 0→1, Improve Existing, Crisis Response, Game Development |
+| **Integration Protocols** | Who talks to who, handoff procedures |
+| **4 Decision Frameworks** | 5-Gate Test, Lead Matrix, Priority Matrix, Escalation Matrix |
+| **Quality Standards** | 10/10 shipping requirement across all domains |
+| **Accountability System** | Individual tracking, Saud enforces, m7zm escalation |
+| **Continuous Improvement** | Weekly retros, monthly reviews, quarterly strategy |
+
+### Accountability Chain
+
+```
+Mohammad (Founder)
+    ↓
+m7zm (CEO) - ACCOUNTABLE FOR ALL SYSTEMS
+    ↓
+Saud (Training) - ENFORCES INDIVIDUAL ACCOUNTABILITY
+    ↓
+All 11 Department Heads - COMPLY WITH SYSTEMS
+```
+
+### Daily Operations
+
+Every department posts: `[DEPT] Status: [ON TRACK / BLOCKED / COMPLETE]`
+
+### Quality Gate
+
+Nothing ships without all relevant sign-offs. 10/10 or don't ship.
+
+**Full Systems:** See `systems.md` in this folder.
+
+---
+
 *"Bold moves. Bold execution. No compromises."*

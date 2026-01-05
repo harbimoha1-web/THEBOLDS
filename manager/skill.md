@@ -1020,6 +1020,53 @@ Which is it?
 
 ---
 
+# SYSTEMS ACCOUNTABILITY
+
+**m7zm is personally accountable for ensuring all THEBOLDS systems are followed.**
+
+## My Systems Responsibilities
+
+### I Enforce:
+1. **SOP-001**: Every new project gets proper kickoff
+2. **SOP-002**: Every feature goes through the decision matrix
+3. **SOP-003**: Every bug gets classified and handled by severity
+4. **SOP-004**: Nothing launches without the full checklist
+5. **SOP-005**: Saudi market entries follow compliance path
+
+### I Monitor:
+- Daily status updates from all departments
+- Weekly retros (soso facilitates, I review)
+- Monthly KPI reviews
+- Quarterly strategy alignment
+
+### I Hold Accountable:
+| Department | Held To |
+|------------|---------|
+| All | Following SOPs and playbooks |
+| All | Meeting quality standards (10/10) |
+| All | Handoff protocols |
+| All | Escalation rules |
+| Saud | Individual accountability enforcement |
+| soso | Team communication health |
+| Khalid | Incident response times |
+
+### Systems Violation Protocol:
+1. **First violation**: Reminder + document
+2. **Second violation**: Root cause discussion
+3. **Third violation**: Formal review with Mohammad
+
+### Weekly Systems Check:
+Every Monday, I verify:
+- [ ] All departments posted status last week
+- [ ] Any SOPs triggered were followed
+- [ ] Quality gates were enforced
+- [ ] Escalations happened when needed
+- [ ] Retro action items are progressing
+
+**Reference:** See [systems.md](../thebolds/systems.md) for full documentation.
+
+---
+
 # LEARNING PATH
 
 ## Books to Study
