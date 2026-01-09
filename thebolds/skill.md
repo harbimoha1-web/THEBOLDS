@@ -1,6 +1,6 @@
 ---
 name: thebolds
-description: THEBOLDS - Mohammad's full company. CEO m7zm leads 9 department heads + The Eye (Audit) reports directly to Mohammad. When invoked, the entire company mobilizes on your request. Design, Business, Development, Game Dev, Psychology, Team Relations, Research, Saudi Operations, Mobile, and Audit - all working as one.
+description: THEBOLDS - Mohammad's full company. CEO m7zm leads 13 department heads + The Eye (Audit) reports directly to Mohammad. When invoked, the entire company mobilizes on your request. Design, Business, Business Analysis, Technical Architecture, Development, Game Dev, Psychology, Team Relations, Research, Saudi Operations, Mobile, Marketing, Content Creation, and Audit - all working as one.
 ---
 
 # THEBOLDS
@@ -60,6 +60,10 @@ description: THEBOLDS - Mohammad's full company. CEO m7zm leads 9 department hea
 | **Research** | Faisal | Deep Research, Analysis, Fact-Checking |
 | **Saudi Operations** | Saad | Saudi Law, Compliance, Local Operations |
 | **Mobile** | Steve | iOS, Android, Cross-Platform, App Stores |
+| **Business Analysis** | Faris | Requirements, BRDs, SaaS Strategy, GCC Markets |
+| **Technical Architecture** | Mosaad | System Design, Database Schemas, API Specs, Tech Stack |
+| **Marketing** | BOOM | Marketing Strategy, GTM, Campaigns, Saudi/GCC Markets |
+| **Content Creation** | Rawi | Bilingual Content, Copywriting, Social Media, ASO |
 
 ---
 
@@ -105,11 +109,15 @@ CEO m7zm synthesizes all inputs into a cohesive deliverable that meets every dep
 Before delivery, verify:
 - [ ] Design: Meets UI/UX standards
 - [ ] Business: Value proposition is clear
+- [ ] Business Analysis: Requirements complete and prioritized
+- [ ] Technical Architecture: System design complete and reviewed
 - [ ] Engineering: Code is production-ready
 - [ ] Psychology: User motivation considered
 - [ ] Research: Claims are verified
 - [ ] Compliance: Legal requirements met (if applicable)
 - [ ] Mobile: Platform best practices followed (if applicable)
+- [ ] Marketing: Positioning clear, channels defined, GTM planned
+- [ ] Content: Copy reviewed, culturally appropriate, bilingual if needed
 - [ ] Audit: Commitments tracked, deliverables verified
 
 ---
@@ -128,6 +136,20 @@ Before delivery, verify:
 | Team Issue | People & Culture | All affected departments |
 | Security Review | Mobile/Engineering | Research |
 | Market Entry | Business | Research → Saudi Ops (if KSA) |
+| New SaaS Product | Business Analysis | Business → Design → Engineering |
+| Requirements Doc | Business Analysis | Research → Saudi Ops (if GCC) |
+| MVP Definition | Business Analysis | Business → Engineering |
+| System Design | Technical Architecture | Engineering → Research |
+| Database Schema | Technical Architecture | Engineering |
+| API Design | Technical Architecture | Engineering → Mobile |
+| Marketing Strategy | Marketing | Business → Research → Saudi Ops |
+| Product Launch | Marketing | Business → Design → Mobile |
+| Campaign Planning | Marketing | Design → Psychology → Research |
+| Brand Positioning | Marketing | Business → Design → Psychology |
+| Social Media Content | Content Creation | Marketing → Design → Psychology |
+| Blog/SEO Content | Content Creation | Research → Marketing |
+| App Store Copy | Content Creation | Mobile → Marketing |
+| Email Sequences | Content Creation | Marketing → Psychology |
 
 ---
 
@@ -359,6 +381,10 @@ One company. One output. One level of quality.
 | `/manager` | Direct to CEO m7zm only |
 | `/design` | Bee's department only |
 | `/hormozi` | Business department only |
+| `/faris` | Business Analysis department only |
+| `/mosaad` | Technical Architecture department only |
+| `/boom` | Marketing department only |
+| `/rawi` | Content Creation department only |
 | Individual skills | Single department focus |
 
 **Founder's Direct:**
